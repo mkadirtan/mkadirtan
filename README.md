@@ -1,6 +1,6 @@
 ### Hi, I'm Muhammed Kadir Tan 👋
 
-- 💰 I'm currently building a wallet service to simplify in-app transactions between users
+- 💰 I'm currently building a wallet service to simplify in-app transactions for Getcontact at Teknasyon
 - 🖥 I'm a backend developer experienced in building very low latency applications
 - 🦉 I'm learning Go ( for keeping sane ) and Python ( for playing with NLP )
 - ✍🏻 I love reading great articles, you can read my articles at [Noop Today](https://nooptoday.com)
